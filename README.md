@@ -1,3 +1,3 @@
 # Mini-project 2
 
-### Review Article will be finished by Friday.
+### The review article will be finished by Friday.
